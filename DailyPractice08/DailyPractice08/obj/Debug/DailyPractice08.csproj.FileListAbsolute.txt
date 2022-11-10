@@ -1,0 +1,6 @@
+/Users/jingxiansu/Desktop/C#/Daily_Practice/DailyPractice08/DailyPractice08/bin/Debug/DailyPractice08.exe
+/Users/jingxiansu/Desktop/C#/Daily_Practice/DailyPractice08/DailyPractice08/bin/Debug/DailyPractice08.pdb
+/Users/jingxiansu/Desktop/C#/Daily_Practice/DailyPractice08/DailyPractice08/obj/Debug/DailyPractice08.csproj.AssemblyReference.cache
+/Users/jingxiansu/Desktop/C#/Daily_Practice/DailyPractice08/DailyPractice08/obj/Debug/DailyPractice08.csproj.CoreCompileInputs.cache
+/Users/jingxiansu/Desktop/C#/Daily_Practice/DailyPractice08/DailyPractice08/obj/Debug/DailyPractice08.exe
+/Users/jingxiansu/Desktop/C#/Daily_Practice/DailyPractice08/DailyPractice08/obj/Debug/DailyPractice08.pdb
