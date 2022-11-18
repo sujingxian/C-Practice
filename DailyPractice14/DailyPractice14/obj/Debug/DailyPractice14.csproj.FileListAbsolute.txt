@@ -1,0 +1,6 @@
+/Users/jingxiansu/Desktop/C#/Daily_Practice/DailyPractice14/DailyPractice14/bin/Debug/DailyPractice14.exe
+/Users/jingxiansu/Desktop/C#/Daily_Practice/DailyPractice14/DailyPractice14/bin/Debug/DailyPractice14.pdb
+/Users/jingxiansu/Desktop/C#/Daily_Practice/DailyPractice14/DailyPractice14/obj/Debug/DailyPractice14.csproj.AssemblyReference.cache
+/Users/jingxiansu/Desktop/C#/Daily_Practice/DailyPractice14/DailyPractice14/obj/Debug/DailyPractice14.csproj.CoreCompileInputs.cache
+/Users/jingxiansu/Desktop/C#/Daily_Practice/DailyPractice14/DailyPractice14/obj/Debug/DailyPractice14.exe
+/Users/jingxiansu/Desktop/C#/Daily_Practice/DailyPractice14/DailyPractice14/obj/Debug/DailyPractice14.pdb
